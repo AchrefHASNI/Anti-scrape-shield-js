@@ -3,8 +3,7 @@
 Anti-Scrape Shield is a lightweight library designed to protect your web applications from scraping attempts. It works with React, Vue, Angular, Svelt,Next and Remix applications.
 
 ## Installation
-```
-bash
+```bash
 npm install anti-scrape-shield
 ```
 ## Usage
