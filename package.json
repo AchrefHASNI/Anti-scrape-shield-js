@@ -19,6 +19,7 @@
     "remix",
     "next"],
   "author": "Achref Hasni",
+  "repository": "https://github.com/AchrefHASNI/Anti-scrape-shield-js",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^27.0.3",
